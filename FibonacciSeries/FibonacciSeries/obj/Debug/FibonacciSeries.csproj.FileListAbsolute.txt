@@ -1,0 +1,7 @@
+C:\Users\pradnya.shelar\source\repos\14Day\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+C:\Users\pradnya.shelar\source\repos\14Day\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+C:\Users\pradnya.shelar\source\repos\14Day\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+C:\Users\pradnya.shelar\source\repos\14Day\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.AssemblyReference.cache
+C:\Users\pradnya.shelar\source\repos\14Day\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\pradnya.shelar\source\repos\14Day\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+C:\Users\pradnya.shelar\source\repos\14Day\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.pdb
