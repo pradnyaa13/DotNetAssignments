@@ -1,0 +1,7 @@
+D:\DotNet\MithrilAssignment\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+D:\DotNet\MithrilAssignment\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+D:\DotNet\MithrilAssignment\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+D:\DotNet\MithrilAssignment\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+D:\DotNet\MithrilAssignment\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+D:\DotNet\MithrilAssignment\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+D:\DotNet\MithrilAssignment\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb

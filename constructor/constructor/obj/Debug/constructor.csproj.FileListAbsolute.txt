@@ -1,0 +1,14 @@
+C:\Users\pradnya.shelar\source\repos\constructor\constructor\bin\Debug\constructor.exe.config
+C:\Users\pradnya.shelar\source\repos\constructor\constructor\bin\Debug\constructor.exe
+C:\Users\pradnya.shelar\source\repos\constructor\constructor\bin\Debug\constructor.pdb
+C:\Users\pradnya.shelar\source\repos\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+C:\Users\pradnya.shelar\source\repos\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+C:\Users\pradnya.shelar\source\repos\constructor\constructor\obj\Debug\constructor.exe
+C:\Users\pradnya.shelar\source\repos\constructor\constructor\obj\Debug\constructor.pdb
+C:\Users\pradnya.shelar\source\repos\4Day\constructor\constructor\bin\Debug\constructor.exe.config
+C:\Users\pradnya.shelar\source\repos\4Day\constructor\constructor\bin\Debug\constructor.exe
+C:\Users\pradnya.shelar\source\repos\4Day\constructor\constructor\bin\Debug\constructor.pdb
+C:\Users\pradnya.shelar\source\repos\4Day\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+C:\Users\pradnya.shelar\source\repos\4Day\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+C:\Users\pradnya.shelar\source\repos\4Day\constructor\constructor\obj\Debug\constructor.exe
+C:\Users\pradnya.shelar\source\repos\4Day\constructor\constructor\obj\Debug\constructor.pdb
