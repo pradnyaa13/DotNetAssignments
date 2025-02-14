@@ -1,0 +1,7 @@
+D:\DotNet\MithrilAssignment\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe.config
+D:\DotNet\MithrilAssignment\PlayerApp\PlayerApp\bin\Debug\PlayerApp.exe
+D:\DotNet\MithrilAssignment\PlayerApp\PlayerApp\bin\Debug\PlayerApp.pdb
+D:\DotNet\MithrilAssignment\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.AssemblyReference.cache
+D:\DotNet\MithrilAssignment\PlayerApp\PlayerApp\obj\Debug\PlayerApp.csproj.CoreCompileInputs.cache
+D:\DotNet\MithrilAssignment\PlayerApp\PlayerApp\obj\Debug\PlayerApp.exe
+D:\DotNet\MithrilAssignment\PlayerApp\PlayerApp\obj\Debug\PlayerApp.pdb
