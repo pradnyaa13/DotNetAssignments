@@ -1,0 +1,7 @@
+D:\DotNet\MithrilAssignment\StudentCollege\StudentCollege\obj\Debug\StudentCollege.csproj.AssemblyReference.cache
+D:\DotNet\MithrilAssignment\StudentCollege\StudentCollege\obj\Debug\StudentCollege.csproj.CoreCompileInputs.cache
+D:\DotNet\MithrilAssignment\StudentCollege\StudentCollege\bin\Debug\StudentCollege.exe.config
+D:\DotNet\MithrilAssignment\StudentCollege\StudentCollege\bin\Debug\StudentCollege.exe
+D:\DotNet\MithrilAssignment\StudentCollege\StudentCollege\bin\Debug\StudentCollege.pdb
+D:\DotNet\MithrilAssignment\StudentCollege\StudentCollege\obj\Debug\StudentCollege.exe
+D:\DotNet\MithrilAssignment\StudentCollege\StudentCollege\obj\Debug\StudentCollege.pdb

@@ -1,0 +1,7 @@
+C:\Users\pradnya.shelar\source\repos\5Day\productapp\productapp\bin\Debug\productapp.exe.config
+C:\Users\pradnya.shelar\source\repos\5Day\productapp\productapp\bin\Debug\productapp.exe
+C:\Users\pradnya.shelar\source\repos\5Day\productapp\productapp\bin\Debug\productapp.pdb
+C:\Users\pradnya.shelar\source\repos\5Day\productapp\productapp\obj\Debug\productapp.csproj.AssemblyReference.cache
+C:\Users\pradnya.shelar\source\repos\5Day\productapp\productapp\obj\Debug\productapp.csproj.CoreCompileInputs.cache
+C:\Users\pradnya.shelar\source\repos\5Day\productapp\productapp\obj\Debug\productapp.exe
+C:\Users\pradnya.shelar\source\repos\5Day\productapp\productapp\obj\Debug\productapp.pdb
