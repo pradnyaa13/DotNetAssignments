@@ -27,14 +27,14 @@ namespace ConstructorOverloading
         }
         public void show()
         {
-            Console.WriteLine("1st constructor (int + float): {0} ", (x + f));
+            Console.WriteLine("1st constructor is (int + float): {0} ", (x + f));
 
         }
 
      
         public void show1()
         {
-            Console.WriteLine("2nd constructor (int + string): {0}", (s + y));
+            Console.WriteLine("2nd constructor is  (int + string): {0}", (s + y));
 
         }
     }
