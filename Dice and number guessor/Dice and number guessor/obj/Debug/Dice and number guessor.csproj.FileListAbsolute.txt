@@ -1,0 +1,7 @@
+C:\Users\pradnya.shelar\source\repos\Dice and number guessor\Dice and number guessor\bin\Debug\Dice and number guessor.exe.config
+C:\Users\pradnya.shelar\source\repos\Dice and number guessor\Dice and number guessor\bin\Debug\Dice and number guessor.exe
+C:\Users\pradnya.shelar\source\repos\Dice and number guessor\Dice and number guessor\bin\Debug\Dice and number guessor.pdb
+C:\Users\pradnya.shelar\source\repos\Dice and number guessor\Dice and number guessor\obj\Debug\Dice and number guessor.csproj.AssemblyReference.cache
+C:\Users\pradnya.shelar\source\repos\Dice and number guessor\Dice and number guessor\obj\Debug\Dice and number guessor.csproj.CoreCompileInputs.cache
+C:\Users\pradnya.shelar\source\repos\Dice and number guessor\Dice and number guessor\obj\Debug\Dice and number guessor.exe
+C:\Users\pradnya.shelar\source\repos\Dice and number guessor\Dice and number guessor\obj\Debug\Dice and number guessor.pdb
