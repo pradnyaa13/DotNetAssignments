@@ -1,0 +1,31 @@
+body{
+    background-color:cornsilk;
+
+}
+.welcomeTitle{
+    color: white;
+    background-color: rgb(224, 94, 233);
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+.paraclass{
+    height: 70px;
+    width: 70px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    border: solid 1px;
+    margin-right: 10px;
+    display: flex,
+}
+
+.divTagReferncestyling{
+    
+        display:'flex';
+        flex-Wrap:'wrap';
+        gap: '10px';
+        justify-Content:'center';
+        padding:'20px';
+        background: 'linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,120,253,1) 100%)';
+}
