@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tic Tac Toe Game</title>
+    <style>
+        body{
+            background-color: lightslategray;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 60px);
+            grid-gap: 5px;
+            margin: 20px auto;
+        }
+        .cell {
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #f0f0f0;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            border: 1px solid #333;
+        }
+        .cellColor{
+            background-color: rgb(229, 160, 229);
+            color: black;
+            font-weight: bold;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <h2 align="center" style="color: rgb(231, 138, 231); background-color: rgb(49, 43, 43); padding: 20px;">Tic Tac Toe Game Using JavaScript & Facade</h2>
+    <div align="center">
+        <label style="color: rgb(10, 28, 82); font-size: larger; font-weight: bold;">Player 1 Name: <input type="text" id="player1" /></label><br><br>
+        <label style="color: rgb(10, 28, 82); font-size: larger; font-weight: bold;">Player 2 Name: <input type="text" id="player2" /></label><br><br>
+        <button onclick="startGame()" style="color: black; background-color: rgb(247, 166, 136); height: 60px; width: 94px; text-align: center; font-weight: bold;">Start Game</button>
+    </div>
+
+    <div class="grid" id="gameGrid" style="display:none;"></div>
+
+    <script src="printTheGrid.js"></script>
+    <script src="tictactoelogic.js"></script>
+    <script src="tictactoeFacadescript.js"></script>
+    <script src="program.js"></script>
+</body>
+</html>
