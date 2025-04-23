@@ -16,7 +16,7 @@ namespace PlayerApp
             this.age = age;
         }
 
-        // Constructor chaining calls the main constructor with default age = 0
+        
         public Player(int id, string name) : this(id, name, 0)
         {
         }
